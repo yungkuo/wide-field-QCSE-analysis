@@ -10,4 +10,7 @@ The repository contains several ipython notebook (.ipynb) files: <br/>
 5. "burst search from time trace.ipynb" demonstrates the burst search algorithm applied to data extratced from notebook 2.. It uses subfunctions contained in "burstsearch.py", which was modified from the original developemnt by Antonio Ingagiola. 
 
 
-
+# Liscence
+All the text and documentation are released under the CC BY 4.0 license. All code is under the MIT license (see LICENSE.txt).
+<br/>
+Copyright 2017 The Regents of the University of California, Yung Kuo, Antonino Ingargiola
