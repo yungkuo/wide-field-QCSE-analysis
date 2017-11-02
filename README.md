@@ -1,6 +1,8 @@
 # Wide-field-QCSE-analysis
 This repository contains all the notebooks used to analyze the spectra of single nanoparticles in response to voltage modulations. The acquisitions were done using a home-built wide-field spectrally-resolved microscope. <br/>
+<br/>
 The repository contains several ipython notebook (.ipynb) files: <br/>
+<br/>
 1. "wide-field QCSE spectra analysis.ipynb" shows the processes, including background subtraction, single particle detection, wavelength conversion (provided with calibration data), and extraction the single particle time traces and averaged spectra.<br/>
 2. "wide-field QCSE spectra-analysis- extract F and L trace-090817.ipynb" have the same work flow as 1. but saves time traces without plotting analysis report figures.<br/>
 3. "Master notebook.ipynb" and "Master notebook-extract F and L trace.ipynb" were functions originally developed by Antonio Ingargiola. They allow repeating excution of notebook 1. and 2. to analyze different sets of data.<br/>
