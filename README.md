@@ -10,9 +10,9 @@ The repository contains several ipython notebook (.ipynb) files: <br/>
 5. "burst search from time trace.ipynb" demonstrates the burst search algorithm applied to data extratced from notebook 2.. It uses subfunctions contained in "burstsearch.py", which was modified from the original developemnt by Antonio Ingagiola. 
 
 ### Read the notebooks:
-[wide-field QCSE spectra analysis.ipynb](http://nbviewer.jupyter.org/github/yungkuo/wide-field-QCSE-analysis/blob/master/Wide-field%20QCSE%20spectra%20analysis.ipynb)<br/>
-[Plot single particle statistics results.ipynb](http://nbviewer.jupyter.org/github/yungkuo/wide-field-QCSE-analysis/blob/master/Plot%20single%20particle%20statistics%20results.ipynb)<br/>
-[burst search from time trace.ipynb](http://nbviewer.jupyter.org/github/yungkuo/wide-field-QCSE-analysis/blob/master/burst%20search%20from%20time%20trace.ipynb)
+1. [wide-field QCSE spectra analysis.ipynb](http://nbviewer.jupyter.org/github/yungkuo/wide-field-QCSE-analysis/blob/master/Wide-field%20QCSE%20spectra%20analysis.ipynb)<br/>
+4. [Plot single particle statistics results.ipynb](http://nbviewer.jupyter.org/github/yungkuo/wide-field-QCSE-analysis/blob/master/Plot%20single%20particle%20statistics%20results.ipynb)<br/>
+5. [burst search from time trace.ipynb](http://nbviewer.jupyter.org/github/yungkuo/wide-field-QCSE-analysis/blob/master/burst%20search%20from%20time%20trace.ipynb)
 
 ### Data:
 The raw data (.tif files) of all the QCSE measurements are deposited on Figshare: XX.
