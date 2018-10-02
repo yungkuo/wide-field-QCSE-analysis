@@ -207,14 +207,14 @@ def nan_helper(y):
 
 from sys import platform
 if platform.startswith('win'):
-    prePath = 'G:/google drive/'
+    prePath = 'H:/My Drive/'
 elif platform == 'darwin':
-    prePath = '/Users/yungkuo/Google Drive/'
-
-pink = pd.read_pickle(prePath+'QCSE analysis script/calibration/pink.pkl')
-yellow = pd.read_pickle(prePath+'QCSE analysis script/calibration/yellow.pkl')
-blue = pd.read_pickle(prePath+'QCSE analysis script/calibration/blue.pkl')
-red = pd.read_pickle(prePath+'QCSE analysis script/calibration/red.pkl')
+    prePath = '/Volumes/GoogleDrive/My Drive/'
+    
+pink = pd.read_pickle(prePath+'Code/QCSE analysis script/calibration/pink.pkl')
+yellow = pd.read_pickle(prePath+'Code/QCSE analysis script/calibration/yellow.pkl')
+blue = pd.read_pickle(prePath+'Code/QCSE analysis script/calibration/blue.pkl')
+red = pd.read_pickle(prePath+'Code/QCSE analysis script/calibration/red.pkl')
 
 def get_wavelength(x, dx, scan, x_or_y):
     mod = QuadraticModel()
